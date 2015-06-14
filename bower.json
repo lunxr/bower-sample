@@ -1,0 +1,21 @@
+{
+  "name": "lunxr",
+  "version": "0.0.0",
+  "authors": [
+    "nayzawoo <naythurain.071@gmail.com>"
+  ],
+  "description": "Lunxr Sample Project",
+  "main": "css/lunxr.css",
+  "keywords": [
+    "lunxr",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
